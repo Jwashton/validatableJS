@@ -7,8 +7,12 @@
     "test": "jasmine ."
   },
   "keywords": [],
-  "author": "",
+  "author": "William Ashton",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jwashton/validateableJS.git"
+  },
   "devDependencies": {
     "jasmine": "^2.4.1"
   }
